@@ -35,7 +35,7 @@ I enjoy learning through hands-on labs, documenting what I learn, and sharing my
 
 ---
 
-## 📂 Featured Repositories
+##  Featured Repositories
 
 Here you'll find repositories about:
 
@@ -49,7 +49,7 @@ Here you'll find repositories about:
 
 ---
 
-##  2026 Goals
+##  Current Focus
 
 - Complete the TryHackMe learning paths
 - Build practical cybersecurity projects
