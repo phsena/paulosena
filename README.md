@@ -1,8 +1,8 @@
-# Hi there, I'm Paulo 👋
+# Hi there, I'm Paulo 
 
 I'm passionate about Cybersecurity and currently building my skills with a focus on Cloud Security.
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Cisco Networking Academy
 - TryHackMe
@@ -10,7 +10,7 @@ I'm passionate about Cybersecurity and currently building my skills with a focus
 - Linux
 - Networking Fundamentals
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python
 - Git
@@ -18,10 +18,10 @@ I'm passionate about Cybersecurity and currently building my skills with a focus
 - Docker
 - Playwright
 
-## 🎯 Goal
+##  Goal
 
 Build a strong foundation in Cybersecurity and Cloud Security while creating practical projects and labs.
 
-## 📫 Connect with me
+##  Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/paulo-sena-a34ba3279/)
